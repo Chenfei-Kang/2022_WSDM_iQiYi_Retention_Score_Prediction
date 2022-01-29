@@ -1,0 +1,80 @@
+step 0 of epoch 0, val loss:0.419023, val score:0.503608 
+best occur at step 0 of epoch 0, val loss:0.419023, val score:0.503608, val_auc:0.680694 
+step 1120 of epoch 0, val loss:0.109978, val score:0.871407 
+best occur at step 1120 of epoch 0, val loss:0.109978, val score:0.871407, val_auc:0.791067 
+step 2240 of epoch 0, val loss:0.113907, val score:0.878275 
+best occur at step 2240 of epoch 0, val loss:0.113907, val score:0.878275, val_auc:0.799865 
+step 3360 of epoch 0, val loss:0.107917, val score:0.881898 
+best occur at step 3360 of epoch 0, val loss:0.107917, val score:0.881898, val_auc:0.818680 
+epoch:0, train loss:0.102614, val loss:0.107917, val score:0.881898, val auc:0.818680, best loss:0.107917, best score:0.881898, best auc:0.818680step 4480 of epoch 1, val loss:0.104298, val score:0.880001 
+best occur at step 4480 of epoch 1, val loss:0.104298, val score:0.880001, val_auc:0.826322 
+step 5600 of epoch 1, val loss:0.104617, val score:0.879813 
+best occur at step 5600 of epoch 1, val loss:0.104617, val score:0.879813, val_auc:0.834078 
+step 6720 of epoch 1, val loss:0.102067, val score:0.881335 
+step 7840 of epoch 1, val loss:0.102422, val score:0.881612 
+best occur at step 7840 of epoch 1, val loss:0.102422, val score:0.881612, val_auc:0.835993 
+epoch:1, train loss:0.100570, val loss:0.102422, val score:0.881612, val auc:0.835993, best loss:0.102422, best score:0.881612, best auc:0.835993step 8960 of epoch 2, val loss:0.101286, val score:0.879556 
+step 10080 of epoch 2, val loss:0.102969, val score:0.864814 
+step 11200 of epoch 2, val loss:0.101010, val score:0.883194 
+best occur at step 11200 of epoch 2, val loss:0.101010, val score:0.883194, val_auc:0.836674 
+step 12320 of epoch 2, val loss:0.101668, val score:0.885330 
+epoch:2, train loss:0.100057, val loss:0.101668, val score:0.885330, val auc:0.836302, best loss:0.101010, best score:0.883194, best auc:0.836674step 13440 of epoch 3, val loss:0.101132, val score:0.879256 
+best occur at step 13440 of epoch 3, val loss:0.101132, val score:0.879256, val_auc:0.838303 
+step 14560 of epoch 3, val loss:0.101816, val score:0.874102 
+step 15680 of epoch 3, val loss:0.102094, val score:0.873256 
+step 16800 of epoch 3, val loss:0.100811, val score:0.887714 
+best occur at step 16800 of epoch 3, val loss:0.100811, val score:0.887714, val_auc:0.839587 
+epoch:3, train loss:0.099885, val loss:0.100811, val score:0.887714, val auc:0.839587, best loss:0.100811, best score:0.887714, best auc:0.839587step 17920 of epoch 4, val loss:0.100676, val score:0.882616 
+step 19040 of epoch 4, val loss:0.101072, val score:0.888631 
+step 20160 of epoch 4, val loss:0.102670, val score:0.873321 
+best occur at step 20160 of epoch 4, val loss:0.102670, val score:0.873321, val_auc:0.842860 
+step 21280 of epoch 4, val loss:0.101588, val score:0.873705 
+epoch:4, train loss:0.099624, val loss:0.101588, val score:0.873705, val auc:0.835199, best loss:0.102670, best score:0.873321, best auc:0.842860step 22400 of epoch 5, val loss:0.100639, val score:0.881963 
+step 23520 of epoch 5, val loss:0.100906, val score:0.889054 
+step 24640 of epoch 5, val loss:0.100286, val score:0.889244 
+best occur at step 24640 of epoch 5, val loss:0.100286, val score:0.889244, val_auc:0.843506 
+step 25760 of epoch 5, val loss:0.101287, val score:0.878075 
+best occur at step 25760 of epoch 5, val loss:0.101287, val score:0.878075, val_auc:0.844312 
+epoch:5, train loss:0.099387, val loss:0.101287, val score:0.878075, val auc:0.844312, best loss:0.101287, best score:0.878075, best auc:0.844312step 26880 of epoch 6, val loss:0.103561, val score:0.881591 
+best occur at step 26880 of epoch 6, val loss:0.103561, val score:0.881591, val_auc:0.845162 
+step 28000 of epoch 6, val loss:0.102031, val score:0.888572 
+step 29120 of epoch 6, val loss:0.100691, val score:0.887868 
+step 30240 of epoch 6, val loss:0.100232, val score:0.883019 
+epoch:6, train loss:0.099306, val loss:0.100232, val score:0.883019, val auc:0.844085, best loss:0.103561, best score:0.881591, best auc:0.845162step 31360 of epoch 7, val loss:0.100509, val score:0.880159 
+step 32480 of epoch 7, val loss:0.100652, val score:0.888592 
+step 33600 of epoch 7, val loss:0.099872, val score:0.886792 
+step 34720 of epoch 7, val loss:0.100045, val score:0.883634 
+epoch:7, train loss:0.099236, val loss:0.100045, val score:0.883634, val auc:0.844432, best loss:0.103561, best score:0.881591, best auc:0.845162step 35840 of epoch 8, val loss:0.100651, val score:0.882711 
+step 36960 of epoch 8, val loss:0.100445, val score:0.883654 
+step 38080 of epoch 8, val loss:0.100088, val score:0.888825 
+step 39200 of epoch 8, val loss:0.100181, val score:0.888194 
+best occur at step 39200 of epoch 8, val loss:0.100181, val score:0.888194, val_auc:0.845695 
+epoch:8, train loss:0.099196, val loss:0.100181, val score:0.888194, val auc:0.845695, best loss:0.100181, best score:0.888194, best auc:0.845695step 40320 of epoch 9, val loss:0.101376, val score:0.879052 
+step 41440 of epoch 9, val loss:0.102264, val score:0.887673 
+step 42560 of epoch 9, val loss:0.099808, val score:0.887342 
+best occur at step 42560 of epoch 9, val loss:0.099808, val score:0.887342, val_auc:0.846123 
+step 43680 of epoch 9, val loss:0.100191, val score:0.886273 
+best occur at step 43680 of epoch 9, val loss:0.100191, val score:0.886273, val_auc:0.846194 
+epoch:9, train loss:0.099149, val loss:0.100191, val score:0.886273, val auc:0.846194, best loss:0.100191, best score:0.886273, best auc:0.846194step 44800 of epoch 10, val loss:0.103409, val score:0.869211 
+step 45920 of epoch 10, val loss:0.099930, val score:0.887621 
+best occur at step 45920 of epoch 10, val loss:0.099930, val score:0.887621, val_auc:0.846315 
+step 47040 of epoch 10, val loss:0.100193, val score:0.888100 
+step 48160 of epoch 10, val loss:0.099947, val score:0.885553 
+epoch:10, train loss:0.099132, val loss:0.099947, val score:0.885553, val auc:0.845958, best loss:0.099930, best score:0.887621, best auc:0.846315step 49280 of epoch 11, val loss:0.100151, val score:0.886131 
+step 50400 of epoch 11, val loss:0.100380, val score:0.879805 
+step 51520 of epoch 11, val loss:0.100854, val score:0.880543 
+step 52640 of epoch 11, val loss:0.100114, val score:0.888106 
+epoch:11, train loss:0.099090, val loss:0.100114, val score:0.888106, val auc:0.845766, best loss:0.099930, best score:0.887621, best auc:0.846315step 53760 of epoch 12, val loss:0.100088, val score:0.886624 
+best occur at step 53760 of epoch 12, val loss:0.100088, val score:0.886624, val_auc:0.846648 
+step 54880 of epoch 12, val loss:0.100078, val score:0.886546 
+step 56000 of epoch 12, val loss:0.099848, val score:0.889172 
+step 57120 of epoch 12, val loss:0.099777, val score:0.889538 
+epoch:12, train loss:0.099076, val loss:0.099777, val score:0.889538, val auc:0.846450, best loss:0.100088, best score:0.886624, best auc:0.846648step 58240 of epoch 13, val loss:0.100636, val score:0.891999 
+step 59360 of epoch 13, val loss:0.100376, val score:0.885933 
+step 60480 of epoch 13, val loss:0.100229, val score:0.885634 
+step 61600 of epoch 13, val loss:0.099875, val score:0.888220 
+epoch:13, train loss:0.099043, val loss:0.099875, val score:0.888220, val auc:0.845754, best loss:0.100088, best score:0.886624, best auc:0.846648step 62720 of epoch 14, val loss:0.099830, val score:0.884752 
+step 63840 of epoch 14, val loss:0.100042, val score:0.888717 
+step 64960 of epoch 14, val loss:0.100219, val score:0.890272 
+step 66080 of epoch 14, val loss:0.100054, val score:0.888377 
+epoch:14, train loss:0.099028, val loss:0.100054, val score:0.888377, val auc:0.845407, best loss:0.100088, best score:0.886624, best auc:0.846648
